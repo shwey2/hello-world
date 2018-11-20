@@ -1,2 +1,9 @@
 # hello-world
-This is my first repository
+
+Hi People,
+
+This is my first attempt in using Github. Great tool for organising the upfront chaos.
+
+
+
+
